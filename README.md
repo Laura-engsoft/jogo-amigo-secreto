@@ -55,7 +55,7 @@ O Jogo do Amigo Secreto é a combinação perfeita de aprendizado, diversão e a
 
 2. Divertimento e desafios entre amigos: O jogo pode ser utilizado como uma brincadeira leve entre amigos. Por exemplo, cada jogador pode tentar adivinhar quem será seu amigo secreto.
 
-# Linguagens, dependencias e libs utilizadas
+# Linguagens, dependências e libs utilizadas
 `JavaScript`
 
 `CSS`
